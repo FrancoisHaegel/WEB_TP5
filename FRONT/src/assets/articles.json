@@ -1,0 +1,90 @@
+[
+    {
+       "id": 0,
+       "name" : "Rolls Royce Sweptails",
+       "color": "dark-blue",
+       "engine": "6.75L V12",
+       "hp": 453,
+       "max_speed": 150,
+       "price" : 13000000,
+       "picture" : "https://zupimages.net/up/19/44/z4hh.jpg",
+       "description": "The Rolls-Royce Sweptail is a one-off large luxury car made in the United Kingdom by Rolls-Royce Motor Cars. At the time of its May 2017 debut at the yearly Concorso d’Eleganza Villa d’Este event it was the most expensive new automobile in the world.\nThe Rolls-Royce Sweptail is hand-built, and inspired by coachbuilding of the 1920s and 1930s. The Sweptail was commissioned bespoke in 2013 as a one-off automobile, at the request of a super-yacht and aircraft specialist who had a unique idea in mind.\n\rGiles Taylor, director of design at Rolls-Royce Motor Cars described the Sweptail as the automotive equivalent of Haute couture"
+    },
+    {
+        "id": 1,
+        "name" : "Koenigsegg Ccxr Trevita",
+        "color": "light-blue",
+        "engine": "4.7L V8",
+        "hp": 1004,
+        "max_speed": 254,
+        "price" : 4800000,
+        "picture" : "https://zupimages.net/up/19/44/p7tv.jpg",
+        "description": "The Koenigsegg CCX is a mid-engine sports car manufactured by Swedish automotive manufacturer Koenigsegg Automotive AB. The project began with the aim of making a global car, designed and engineered to comply with global safety and environment regulations, particularly to enter the United States car market. To sell cars in the US many alterations were made to the design of the CCR; the previously used Ford Modular engine was replaced by an in-house developed Koenigsegg engine designed to run on 91 octane fuel, readily available in the United States, and to meet the Californian emission standards.The name CCX is an abbreviation for Competition Coupé X, the X commemorating the 10th anniversary (X being the Roman numeral for ten) of the completion and test drive of the first CC prototype in 1996."
+    },
+    {
+        "id": 2,
+        "name" : "Lamborghini Veneno",
+        "color": "green",
+        "engine": "6.5L V12",
+        "hp": 740,
+        "max_speed": 221,
+        "price" : 4500000,
+        "picture" : "https://zupimages.net/up/19/44/fga4.jpg",
+        "description": "The Lamborghini Veneno is a limited production high performance sports car manufactured by Italian automobile manufacturer Lamborghini. Based on the Lamborghini Aventador, the Veneno was developed to celebrate Lamborghini’s 50th anniversary. It was introduced at the 2013 Geneva Motor Show. When introduced, it had a price of US$4,000,000, which makes it one of the most expensive production cars in the world. The prototype, Car Zero, is finished in Grigio Telesto (medium grey) and includes an Italian flag vinyl on both sides of the car."
+    },
+    {
+        "id": 3,
+        "name" : "McLaren P1 LM",
+        "color": "black",
+        "engine": "3.8L V8",
+        "hp": 1000,
+        "max_speed": 147,
+        "price" : 3600000,
+        "picture" : "https://zupimages.net/up/19/44/t1mo.jpg",
+        "description": "The McLaren P1 is a limited-production plug-in hybrid sports car produced by British automobile manufacturer McLaren Automotive. Debuted at the 2012 Paris Motor Show, sales of the P1 began in the United Kingdom in October 2013 and all 375 units were sold out by November. Production ended in early December 2015. The United States accounted for 34% of the units and Europe for 26%. It is considered by the automotive press to be the successor to the F1, utilising hybrid power and Formula 1 technology, but does not have the same three-seat layout. It was later confirmed that the Speedtail served as the actual successor to the F1. Like the F1, the P1 has a mid-engine, rear wheel drive design that used a carbon fibre monocoque and roof structure safety cage concept called MonoCage, which is a development of the MonoCell first used in the MP4-12C and then in subsequent models."
+    },
+    {
+        "id": 4,
+        "name" : "Lykan HyperSport",
+        "color": "red",
+        "engine": "3.7L V12",
+        "hp": 780,
+        "max_speed": 240,
+        "price" : 3400000,
+        "picture" : "https://zupimages.net/up/19/44/8tz9.jpg",
+        "description": "The Lykan Hypersport is a Lebanese limited production supercar manufactured by W Motors, a United Arab Emirates based company, founded in 2012 in Lebanon with the collaboration of Lebanese, and Italian engineers. It is the first sports car to be designed and produced indigenously in the Middle East. The production of the car was limited to a planned total of just seven units. The first pre-production Lykan HyperSport was unveiled to the public at the Qatar Motor Show in February 2013"
+    },
+    {
+        "id": 5,
+        "name" : "Bugatti Veyron",
+        "color": "grey",
+        "engine": "8.0L V12",
+        "hp": 1200,
+        "max_speed": 253,
+        "price" : 3400000,
+        "picture" : "https://zupimages.net/up/19/44/6raa.jpg",
+        "description": "The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in Germany by the Volkswagen Group and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron. The original version has a top speed of 253 mph (407 km/h). It was named Car of the Decade and best car award (2000–2009) by the BBC television programme Top Gear. The standard Bugatti Veyron also won Top Gear's Best Car Driven All Year award in 2005. The Super Sport version of the Veyron is recognised by Guinness World Records as the fastest street-legal production car in the world, with a top speed of 267.856 mph (431.072 km/h). The Veyron Grand Sport Vitesse was the fastest roadster in the world, reaching an averaged top speed of 254.04 mph (408.84 km/h) in a test on 6 April 2013"
+    },
+    {
+        "id": 6,
+        "name" : "Aston Martin",
+        "color": "light-blue",
+        "engine": "6.5L V12",
+        "hp": 1000,
+        "max_speed": 250,
+        "price" : 3200000,
+        "picture" : "https://zupimages.net/up/19/44/x7e4.jpg",
+        "description": "The Aston Martin DB11 is a grand tourer produced by British luxury car manufacturer Aston Martin since 2016. It debuted at the Geneva Motor Show in March 2016 as a replacement to the DB9. It is the first model launched in Aston Martin's 'second century' plan and the first car launched since the company's tie-up with Daimler AG."
+    },
+    {
+        "id": 7,
+        "name" : "Ferrari Pininfarina",
+        "color": "dark-red",
+        "engine": "4.5L V8",
+        "hp": 570,
+        "max_speed": 198,
+        "price" : 3000000,
+        "picture" : "https://zupimages.net/up/19/44/dcws.jpg",
+        "description": "The Pininfarina Sergio is a concept car produced by the Italian design house Pininfarina. It was presented at the 2013 Geneva Motor Show as a tribute to the former chairman of the company and automotive designer, Sergio Pininfarina, who died on 3 July 2012. The car is a coach built barchetta which is based on the mechanical underpinnings of the Ferrari 458 Spider"
+    }
+]

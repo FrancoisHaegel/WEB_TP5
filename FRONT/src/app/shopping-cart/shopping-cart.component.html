@@ -1,0 +1,5 @@
+<div *ngFor="let item of shoppingCart | async">
+    <p>{{ item.name }} - {{ item.price }}$
+        <button type="button" class="btn btn-primary btn-sm" (click)="removeFromShoppingCart(item)">Remove</button>
+    </p>
+</div>
